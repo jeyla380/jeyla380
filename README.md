@@ -1,8 +1,15 @@
-# 👋 Hello!
+# Hello!
 Welcome to my page!
 
 
-- 👋 Hi, I’m @xemycutiex
+## 👋 About Me
+
+
+
+## 🌱 What I'm Learning & My Projects
+
+
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
