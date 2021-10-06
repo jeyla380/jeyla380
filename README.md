@@ -1,4 +1,4 @@
-# ![](https://github.com/xemycutiex/xemycutiex/blob/main/images/hello.png) Hello!
+# Hello!
 Welcome to my page!
 
 
@@ -17,4 +17,6 @@ Welcome to my page!
 - 📫 How to reach me ...
 xemycutiex/xemycutiex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+![](https://github.com/xemycutiex/xemycutiex/blob/main/images/hello.png)
 --->
