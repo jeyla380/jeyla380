@@ -7,7 +7,9 @@ Welcome to my page!
 
 
 ## 🌱 What I'm Learning & My Projects
-
+| Codecademy | Other |
+| --- | --- |
+| [Data Science Career Path](https://github.com/xemycutiex/codecademy_projects) | Other |
 
 
 - 👀 I’m interested in ...
