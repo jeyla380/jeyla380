@@ -1,3 +1,5 @@
+![](https://github.com/xemycutiex/xemycutiex/blob/main/images/banner.png)
+
 # Hello!
 Welcome to my page!
 
