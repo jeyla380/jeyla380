@@ -5,11 +5,11 @@ Welcome to my page!
 
 
 
-## 🌱 What I'm Learning & My Projects
+## 🌱 What I'm Learning
 
-| Codecademy |
+| My Projects |
 | --- |
-| [Data Science Career Path](https://github.com/xemycutiex/codecademy_projects) |
+| [Codecademy](https://github.com/xemycutiex/codecademy_projects) |
 
 
 
