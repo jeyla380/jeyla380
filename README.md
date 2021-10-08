@@ -17,14 +17,14 @@ Welcome to my page!
 
   ## 🖋️ What I'm Learning:
 
-| Current Projects |
-| --- |
-| [Codecademy](https://github.com/jeyla380/codecademy_projects) |
+| Current Projects | Previous Projects
+| --- | --- |
+| [Codecademy](https://github.com/jeyla380/codecademy_projects) | ... |
 
   <br>
 
   
-  ## 📚 Previous Projects
+  ## 📚 School Work:
   
   </td></tr></table>
 
