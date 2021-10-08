@@ -15,12 +15,17 @@ Welcome to my page!
   <br>
 <br>
 
-  ## 🌱 What I'm Learning
+  ## 🖋️ What I'm Learning:
 
-| My Projects |
+| Current Projects |
 | --- |
 | [Codecademy](https://github.com/jeyla380/codecademy_projects) |
 
+  <br>
+
+  
+  ## 📚 Previous Projects
+  
   </td></tr></table>
 
 
@@ -28,6 +33,7 @@ Welcome to my page!
 <!---
 - 👀 I’m interested in ...
 - 📫 How to reach me ...
+🌱
 xemycutiex/xemycutiex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
