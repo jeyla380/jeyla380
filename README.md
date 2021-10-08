@@ -19,7 +19,7 @@ Welcome to my page!
 
 | My Projects |
 | --- |
-| [Codecademy](https://github.com/xemycutiex/codecademy_projects) |
+| [Codecademy](https://github.com/jeyla380/codecademy_projects) |
 
   </td></tr></table>
 
