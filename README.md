@@ -15,11 +15,11 @@ Welcome to my page!
   <br>
 <br>
 
-  ## 🖋️ What I'm Learning:
+  ## 🖋️ Current Projects:
 
-| Current Projects | Previous Projects
-| --- | --- |
-| [Codecademy](https://github.com/jeyla380/codecademy_projects) | ... |
+| [Codecademy](https://github.com/jeyla380/codecademy_projects) |
+| --- |
+| [Python](https://github.com/jeyla380/codecademy_projects) |
 
   <br>
 
