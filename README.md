@@ -18,7 +18,7 @@ Welcome to my page!
   ## 🖋️ Projects:
   
 | [Codecademy](https://github.com/jeyla380/codecademy_projects) | School Work |
-| --- | --- |
+|:--------:|:--------:|
 | [Data Science Career Path](https://github.com/jeyla380/codecademy_projects/tree/main/datascience) | Web Programming & Design |
 | ... | Visual Arts |
 
