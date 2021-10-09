@@ -15,6 +15,10 @@ Welcome to my page!
   <br>
 <br>
 
+  ## 🎀 About Me:
+  " "
+  
+  
   ## 🖋️ Projects:
   
 | [Codecademy](https://github.com/jeyla380/codecademy_projects) | [School Work](https://github.com/jeyla380/school_work) |
