@@ -19,7 +19,7 @@ Welcome to my page!
 
 | [Codecademy](https://github.com/jeyla380/codecademy_projects) |
 | --- |
-| [Python](https://github.com/jeyla380/codecademy_projects) |
+| [Data Science Career Path](https://github.com/jeyla380/codecademy_projects/tree/main/datascience) |
 
   <br>
 
