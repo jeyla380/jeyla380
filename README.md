@@ -11,20 +11,20 @@ Welcome to my page!
 
 
 
-<tr><td width="9999" background="#ffffff">
+<tr><td width="9999">
   <br>
 <br>
 
-  ## 🖋️ Current Projects:
-
-| [Codecademy](https://github.com/jeyla380/codecademy_projects) |
-| --- |
-| [Data Science Career Path](https://github.com/jeyla380/codecademy_projects/tree/main/datascience) |
+  ## 🖋️ Projects:
+  
+| [Codecademy](https://github.com/jeyla380/codecademy_projects) | School Work |
+| --- | --- |
+| [Data Science Career Path](https://github.com/jeyla380/codecademy_projects/tree/main/datascience) | Web Programming & Design |
+| ... | Visual Arts |
 
   <br>
 
   
-  ## 📚 School Work:
   
   </td></tr></table>
 
@@ -34,6 +34,7 @@ Welcome to my page!
 - 👀 I’m interested in ...
 - 📫 How to reach me ...
 🌱
+ ## 📚 School Work:
 xemycutiex/xemycutiex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
