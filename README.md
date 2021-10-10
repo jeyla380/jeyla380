@@ -21,10 +21,10 @@ Welcome to my page!
   
   ## 🖋️ Projects:
   
-| [Codecademy](https://github.com/jeyla380/codecademy_projects) | [School Work](https://github.com/jeyla380/school_work) |
+| [Codecademy](https://github.com/jeyla380/codecademy_projects) | 
 |:--------:|:--------:|
-| [Data Science](https://github.com/jeyla380/codecademy_projects/tree/main/datascience) | Web Programming & Design |
-| ... | Visual Arts |
+| [Data Science](https://github.com/jeyla380/codecademy_projects/tree/main/datascience) | 
+
 
   <br>
 
