@@ -1,23 +1,19 @@
 ![](https://github.com/jeyla380/jeyla380/blob/main/images/banner.png)
 
-<table align="center"><tr><td align="center" width="9999">
-
-  # Hello!
-
-Welcome to my page!
-
-<br>  
-</td></tr>
+# Hello!
 
 
 
-<tr><td width="9999">
+
+
+
   <br>
 <br>
 
   ## 🎀 About Me:
   " "
   
+  <br>
   
   ## 🖋️ Projects:
   
@@ -30,7 +26,7 @@ Welcome to my page!
 
   
   
-  </td></tr></table>
+
 
 
 
