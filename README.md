@@ -1,13 +1,11 @@
 ![](https://github.com/jeyla380/jeyla380/blob/main/images/banner.png)
 
 # Hello!
+This is where I'll be showcasing my projects.
 
 
 
 
-
-
-  <br>
 <br>
 
   ## 🎀 About Me:
