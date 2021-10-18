@@ -31,17 +31,6 @@
 
 
 
-  
-<br>
-  
-## 🖋️ Projects:
-  
-| [Codecademy](https://github.com/jeyla380/codecademy_projects) | 
-|:--------:|
-| [Data Science](https://github.com/jeyla380/codecademy_projects/tree/main/datascience) | 
-
-
-  <br>
 
   
   
@@ -59,4 +48,13 @@ xemycutiex/xemycutiex is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 
 ![](https://github.com/xemycutiex/xemycutiex/blob/main/images/banner.png)
+
+## 🖋️ Projects:
+  
+| [Codecademy](https://github.com/jeyla380/codecademy_projects) | 
+|:--------:|
+| [Data Science](https://github.com/jeyla380/codecademy_projects/tree/main/datascience) | 
+
+
+  <br>
 --->
