@@ -2,9 +2,10 @@
 
 ![](https://github.com/jeyla380/jeyla380/blob/main/images/banner.png)
 
-<h1 align="center">Hello!</h1>
+<h1 align="center">✨ Hello! ✨</h1>
 <p align="center">Learning to code since 2019!</p>
 
+<br>
 <br>
 
 
