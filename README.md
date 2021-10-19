@@ -16,7 +16,9 @@
 
 
 ## 📫 Get In Touch
-
+| LinkedIn | Email
+| :--------: | :--------: |
+| <a href="https://www.linkedin.com/in/jessemy-lake-054140142/"><img src="https://github.com/jeyla380/jeyla380/blob/main/images/linkedin_icon.png"></a> | jeyla.380@gmail.com |
 
 
 
