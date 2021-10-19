@@ -2,6 +2,13 @@
     <img src="https://github.com/jeyla380/jeyla380/blob/main/images/hello_page.png">
 </p>
 
+<br>
+
+## 🖋️ Projects:
+  
+| [Codecademy](https://github.com/jeyla380/codecademy_projects) | 
+|:--------:|
+| [Data Science](https://github.com/jeyla380/codecademy_projects/tree/main/datascience) | 
 
 
 
