@@ -5,19 +5,25 @@
 
 <br>
 
-
-
-## 🖋️ Projects:
+## 🎀 Projects:
   
-| [Codecademy](https://github.com/jeyla380/codecademy_projects) | 
-|:--------:|
-| [Data Science](https://github.com/jeyla380/codecademy_projects/tree/main/datascience) | 
+| [Codecademy](https://github.com/jeyla380/codecademy_projects) | School Work
+|:--------:| :--------:|
+| [Data Science](https://github.com/jeyla380/codecademy_projects/tree/main/datascience) | ... |
+
 
 
 
 
 
 <!---
+
+## 🎀 Projects:
+  
+| [Codecademy](https://github.com/jeyla380/codecademy_projects) | 
+|:--------:|
+| [Data Science](https://github.com/jeyla380/codecademy_projects/tree/main/datascience) | 
+
 
 ![](https://github.com/jeyla380/jeyla380/blob/main/images/banner.png)
 
@@ -56,7 +62,7 @@
 
 
 
-
+🖋️
 
 🎀
 - 👀 I’m interested in ...
