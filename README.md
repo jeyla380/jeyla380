@@ -3,22 +3,19 @@
     <img src="https://github.com/jeyla380/jeyla380/blob/main/images/new_hellopage.png">
 </p>
 
-<br>
 
-## 🎀 Projects:
-  
-| [Codecademy](https://github.com/jeyla380/codecademy_projects) | School Work
-|:--------:| :--------:|
-| [Data Science](https://github.com/jeyla380/codecademy_projects/tree/main/datascience) | ... |
-
-
-<br>
 
 
 
 
 
 <!---
+
+## 🎀 Projects:
+  
+| [Codecademy](https://github.com/jeyla380/codecademy_projects) | School Work
+|:--------:| :--------:|
+| [Data Science](https://github.com/jeyla380/codecademy_projects/tree/main/datascience) | ... |
 
 ## 📫 Get In Touch
 | LinkedIn | Email
