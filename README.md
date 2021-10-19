@@ -12,6 +12,10 @@
 | [Data Science](https://github.com/jeyla380/codecademy_projects/tree/main/datascience) | ... |
 
 
+<br>
+
+
+## 📫 Get In Touch
 
 
 
