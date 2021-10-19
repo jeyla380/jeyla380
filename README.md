@@ -4,11 +4,11 @@
 
 <br>
 
-## 🖋️ Projects:
+   ## 🖋️ Projects:
   
-| [Codecademy](https://github.com/jeyla380/codecademy_projects) | 
-|:--------:|
-| [Data Science](https://github.com/jeyla380/codecademy_projects/tree/main/datascience) | 
+   | [Codecademy](https://github.com/jeyla380/codecademy_projects) | 
+   |:--------:|
+   | [Data Science](https://github.com/jeyla380/codecademy_projects/tree/main/datascience) | 
 
 
 
