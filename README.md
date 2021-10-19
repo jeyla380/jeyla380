@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/jeyla380/jeyla380/blob/main/images/hello_page.png">
+    
 </p>
 
 <br>
