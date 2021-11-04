@@ -3,8 +3,18 @@
     <img src="https://github.com/jeyla380/jeyla380/blob/main/images/new_hellopage.png">
 </p>
 
+<br>
 
+## 🎀 What I've Been Working On:
 
+### [Codecademy](https://github.com/jeyla380/codecademy_projects)
+- Data Scientist Course
+
+### [School Work](https://github.com/jeyla380/school_work)
+- XHTML & Internet Fundamentals
+- Web Programming
+- Advanced Javascript & JSP
+- Web Design
 
 
 
@@ -25,7 +35,7 @@
 
 
 
-## 🎀 Projects:
+## 🎀 What I'm Learning:
   
 | [Codecademy](https://github.com/jeyla380/codecademy_projects) | 
 |:--------:|
