@@ -17,6 +17,10 @@
     - Advanced Javascript & JSP
     - Web Design
 
+- Visual Arts
+    - Photoshop
+    - InDesign 
+
 
 
 
