@@ -5,7 +5,7 @@
 
 <br>
 
-## 🎀 What I've Been Working On:
+## 🎀 My Courses:
 
 ### [Codecademy](https://github.com/jeyla380/codecademy_projects)
 - Data Scientist Course
