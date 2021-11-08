@@ -9,6 +9,10 @@
 
 ### [Codecademy](https://github.com/jeyla380/codecademy_projects)
 #### Data Science
+- Python Fundamentals
+- Data Acquisition
+    - Introduction to SQL (SQLite)
+    - Web Scraping
 
 <br>
 
