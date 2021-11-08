@@ -8,7 +8,7 @@
 ## 🎀 My Courses:
 
 ### [Codecademy](https://github.com/jeyla380/codecademy_projects)
-- Data Scientist Course
+- Data Science Course
 
 ### [School Work](https://github.com/jeyla380/school_work)
 - Computer Science
