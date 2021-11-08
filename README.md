@@ -11,11 +11,14 @@
 - Data Scientist Course
 
 ### [School Work](https://github.com/jeyla380/school_work)
-- Front-End Programming
-    - XHTML & Internet Fundamentals
-    - Web Programming
-    - Advanced Javascript & JSP
-    - Web Design
+- Computer Science
+    - Front-End Programming
+        - XHTML & Internet Fundamentals
+        - Web Programming
+        - Advanced Javascript & JSP
+        - Web Design
+    - Back-End Programming
+        - Fundamentals of Programming (Intro. to Java)   
 
 - Visual Arts
     - Photoshop
