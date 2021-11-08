@@ -8,21 +8,23 @@
 ## 🎀 My Courses:
 
 ### [Codecademy](https://github.com/jeyla380/codecademy_projects)
-- Data Science Course
+#### Data Science
+
+<br>
 
 ### [School Work](https://github.com/jeyla380/school_work)
-- Computer Science
-    - Front-End Programming
-        - XHTML & Internet Fundamentals
-        - Web Programming
-        - Advanced Javascript & JSP
-        - Web Design
-    - Back-End Programming
-        - Fundamentals of Programming (Intro. to Java)   
+#### Computer Science
+- Front-End Programming
+    - XHTML & Internet Fundamentals
+    - Web Programming
+    - Advanced Javascript & JSP
+    - Web Design
+- Back-End Programming
+    - Fundamentals of Programming (Intro. to Java)   
 
-- Visual Arts
-    - Photoshop
-    - InDesign 
+#### Visual Arts
+- Photoshop
+- InDesign 
 
 
 
