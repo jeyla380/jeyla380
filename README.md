@@ -13,6 +13,8 @@
 - Data Acquisition
     - Introduction to SQL (SQLite)
     - Web Scraping
+- Data Manipulation
+    - Lambda
 
 <br>
 
