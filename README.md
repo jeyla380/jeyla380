@@ -11,10 +11,12 @@
 #### Data Science
 - Python Fundamentals
 - Data Acquisition
-    - Introduction to SQL (SQLite)
+    - SQL (SQLite)
     - Web Scraping
 - Data Manipulation
-    - Lambda
+    - Lambda Functions
+    - NumPy
+    - Pandas
 
 <br>
 
