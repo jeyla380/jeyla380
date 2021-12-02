@@ -17,6 +17,8 @@
     - Lambda Functions
     - NumPy
     - Pandas
+- Data Tidying
+    - Regular Expressions (Regex)
 
 <br>
 
