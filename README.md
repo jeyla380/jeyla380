@@ -20,6 +20,9 @@
 - Data Tidying
     - Regular Expressions (Regex)
 
+#### Full Stack
+- PHP
+
 <br>
 
 ### [School Work](https://github.com/jeyla380/school_work)
