@@ -23,6 +23,7 @@
 
 #### Full Stack
 - PHP
+- JavaScript
 
 <br>
 
