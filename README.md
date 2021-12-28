@@ -23,7 +23,7 @@
 
 #### Full Stack
 - PHP
-- JavaScript
+- JavaScript Syntax
 
 <br>
 
