@@ -20,6 +20,9 @@
     - Pandas
 - Data Tidying
     - Regular Expressions (Regex)
+    - Exploratory Data Analysis
+- Summary Statistics
+    - Variable Types
 
 #### Full Stack
 - PHP
