@@ -30,9 +30,9 @@
 ### [School Work](https://github.com/jeyla380/school_work)
 #### Computer Science
 - Front-End Programming
-    - XHTML & Internet Fundamentals
+    - XHTML & Internet Fundamentals 
     - Web Programming
-    - Advanced Javascript & JSP
+    - Advanced JavaScript & JSP
     - Web Design
 - Back-End Programming
     - Fundamentals of Programming (Intro. to Java)   
