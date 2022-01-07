@@ -26,7 +26,10 @@
 
 #### Full Stack
 - PHP
+    - Form Handling 
+    - Form Validation
 - JavaScript Syntax
+    - Errors and Debugging
 
 <br>
 
