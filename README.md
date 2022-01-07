@@ -23,7 +23,6 @@
     - Exploratory Data Analysis
 - Summary Statistics
     - Variable Types
-    - Mean, Median, Mode
 
 #### Full Stack
 - PHP
