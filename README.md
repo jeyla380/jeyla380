@@ -23,6 +23,7 @@
     - Exploratory Data Analysis
 - Summary Statistics
     - Variable Types
+    - Quartiles, Quantiles, & Interquartile Range
 
 #### Full Stack
 - PHP
