@@ -24,6 +24,8 @@
 - Summary Statistics
     - Variable Types
     - Quartiles, Quantiles, & Interquartile Range
+    - Data Transformation
+    - Assocation Between Variables
 
 #### Full Stack
 - PHP
