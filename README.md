@@ -26,6 +26,7 @@
     - Quartiles, Quantiles, & Interquartile Range
     - Data Transformation
     - Assocation Between Variables
+- Hypothesis Testing
 
 #### Full Stack
 - PHP
