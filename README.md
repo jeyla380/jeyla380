@@ -27,6 +27,12 @@
     - Data Transformation
     - Assocation Between Variables
 - Hypothesis Testing
+    - One Sample T-Tests
+    - Binomial Tests
+    - Associations
+        - Two Sample T-Tests
+        - ANOVA & Tukey Tests
+        - Chi-Square Tests
 
 #### Full Stack
 - PHP
