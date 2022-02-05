@@ -33,6 +33,7 @@
         - Two Sample T-Tests
         - ANOVA & Tukey Tests
         - Chi-Square Tests
+    - A/B Testing
 
 #### Full Stack
 - PHP
