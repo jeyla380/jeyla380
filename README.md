@@ -34,6 +34,7 @@
         - ANOVA & Tukey Tests
         - Chi-Square Tests
     - A/B Testing
+- Data Visualization 
 
 #### Full Stack
 - PHP
