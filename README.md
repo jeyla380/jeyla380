@@ -42,6 +42,7 @@
 - PHP
     - Form Handling 
     - Form Validation
+        - Regular Expressions (Regex) 
 - JavaScript Syntax
     - Errors and Debugging
 
