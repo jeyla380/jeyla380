@@ -35,6 +35,8 @@
         - Chi-Square Tests
     - A/B Testing
 - Data Visualization 
+    - Matplotlib
+    - Seaborn 
 
 #### Full Stack
 - PHP
