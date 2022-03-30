@@ -37,6 +37,19 @@
 - Data Visualization 
     - Matplotlib
     - Seaborn 
+- Natural Language Processing
+    - Text Preprocessing
+        - Tokenization
+        - Lemmatization
+    - Bag-of-Words 
+    - Term Frequency-Inverse Document Frequency
+    - Word Embeddings
+        - Word2Vec
+        - Gensim 
+- Machine Learning
+    - Supervised Learning
+        - Distances (Euclidean, Manhattan, Hamming)
+        - Linear Regression 
 
 #### Full Stack
 - PHP
