@@ -50,6 +50,15 @@
     - Supervised Learning
         - Distances (Euclidean, Manhattan, Hamming)
         - Linear Regression 
+        - Training Set vs. Test Set vs. Validation Set (train_test_split)
+        - K-Nearest Neighbor Classifier & Regressor
+            - Min-Max Normalization
+            - Z-Score Normalization
+        - Accuracy, Recall, Precision, F1 Score
+        - Logistic Regression
+            - Confusion Matrix 
+        - Bayes' Theorem
+            - Conditional Probability
 
 #### Full Stack
 - PHP
