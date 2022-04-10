@@ -9,85 +9,154 @@
 ## 🎀 My Courses:
 
 ### [Codecademy](https://github.com/jeyla380/codecademy_projects)
-#### Data Science
-- Python Fundamentals
-- Data Acquisition
-    - SQL (SQLite)
-    - Web Scraping
-- Data Manipulation
-    - Lambda Functions
-    - NumPy
-    - Pandas
-- Data Tidying
-    - Regular Expressions (Regex)
-    - Exploratory Data Analysis
-- Summary Statistics
-    - Variable Types
-    - Quartiles, Quantiles, & Interquartile Range
-    - Data Transformation
-    - Assocation Between Variables
-- Hypothesis Testing
-    - One Sample T-Tests
-    - Binomial Tests
-    - Associations
-        - Two Sample T-Tests
-        - ANOVA & Tukey Tests
-        - Chi-Square Tests
-    - A/B Testing
-- Data Visualization 
-    - Matplotlib
-    - Seaborn 
-- Natural Language Processing
-    - Text Preprocessing
-        - Tokenization
-        - Lemmatization
-    - Bag-of-Words 
-    - Term Frequency-Inverse Document Frequency
-    - Word Embeddings
-        - Word2Vec
-        - Gensim 
-- Machine Learning
-    - Supervised Learning
-        - Distances (Euclidean, Manhattan, Hamming)
-        - Linear Regression 
-        - Training Set vs. Test Set vs. Validation Set (train_test_split)
-        - K-Nearest Neighbor Classifier & Regressor
-            - Min-Max Normalization
-            - Z-Score Normalization
-        - Accuracy, Recall, Precision, F1 Score
-        - Logistic Regression
-            - Confusion Matrix 
-        - Bayes' Theorem
-            - Conditional Probability
-        - Naive Bayes Classifier
-        - Support Vector Machines
-        - Decision Trees
-            - Weighted Information Gain 
-        - Random Forests 
 
-#### Full Stack
-- PHP
-    - Form Handling 
-    - Form Validation
-        - Regular Expressions (Regex) 
-- JavaScript Syntax
-    - Errors and Debugging
+<details>
+    <summary><b>Data Scientist</b></summary>
+    <ul>
+        <li>Python Fundamentals</li>
+        <li>Data Acquisition</li>
+        <ul>
+            <li>SQL (SQLite)</li>
+            <li>Web Scraping</li>
+        </ul>
+        <li>Data Manipulation</li>
+        <ul>
+        <li>Lambda Functions</li>
+        <li>NumPy</li>
+        <li>Pandas</li>
+        </ul>
+    <li>Data Tidying</li>
+        <ul>
+        <li>Regular Expressions (Regex)</li>
+        <li>Exploratory Data Analysis</li>
+        </ul>
+    <li>Summary Statistics</li>
+        <ul>
+        <li>Variable Types</li>
+        <li>Quartiles, Quantiles, & Interquartile Range</li>
+        <li>Data Transformation</li>
+        <li>Assocation Between Variables</li>
+        </ul>
+    <li>Hypothesis Testing</li>
+        <ul>
+        <li>One Sample T-Tests</li>
+        <li>Binomial Tests</li>
+        <li>Associations</li>
+            <ul>
+            <li>Two Sample T-Tests</li>
+            <li>ANOVA & Tukey Tests</li>
+            <li>Chi-Square Tests</li>
+            </ul>
+        <li>A/B Testing</li>
+        </ul>
+    <li>Data Visualization</li>
+        <ul>
+        <li>Matplotlib</li>
+        <li>Seaborn</li>
+        </ul>
+    <li>Natural Language Processing</li>
+        <ul>
+        <li>Text Preprocessing</li>
+            <ul>
+            <li>Tokenization</li>
+            <li>Lemmatization</li>
+            </ul>
+        <li>Bag-of-Words </li>
+        <li>Term Frequency-Inverse Document Frequency</li>
+        <li>Word Embeddings</li>
+            <ul>
+            <li>Word2Vec</li>
+            <li>Gensim </li>
+            </ul>
+        </ul>
+    <li>Machine Learning</li>
+        <ul>
+        <li>Supervised Learning</li>
+            <ul>
+            <li>Distances (Euclidean, Manhattan, Hamming)</li>
+            <li>Linear Regression </li>
+            <li>Training Set vs. Test Set vs. Validation Set (train_test_split)</li>
+            <li>K-Nearest Neighbor Classifier & Regressor</li>
+                <ul>
+                <li>Min-Max Normalization</li>
+                <li>Z-Score Normalization</li>
+                </ul>
+            <li>Accuracy, Recall, Precision, F1 Score</li>
+            <li>Logistic Regression</li>
+                <ul>
+                <li>Confusion Matrix </li>
+                </ul>
+            <li>Bayes' Theorem</li>
+                <ul>
+                <li>Conditional Probability</li>
+                </ul>
+            <li>Naive Bayes Classifier</li>
+            <li>Support Vector Machines</li>
+            <li>Decision Trees</li>
+                <ul>
+                <li>Weighted Information Gain </li>
+                </ul>
+            <li>Random Forests </li>
+            </ul>
+            <li>Unsupervised Learning</li>
+        </ul>
+     <li>Deep Learning</li>
+    </ul>
+    
+</details>
+
+
+<details>
+    <summary><b>Full Stack Engineer</b></summary>
+    <ul>
+        <li>PHP</li>
+        <ul>
+            <li>Form Handling</li>
+            <li>Form Validation</li>
+            <ul>
+                <li>Regular Expressions (Regex)</li>
+            </ul>
+        </ul>
+        <li>JavaScript Syntax</li>
+        <ul>
+            <li>Errors and Debugging</li>
+        </ul>
+    </ul>
+   
+</details>
+
 
 <br>
 
 ### [School Work](https://github.com/jeyla380/school_work)
-#### Computer Science
-- Front-End Programming
-    - XHTML & Internet Fundamentals 
-    - Web Programming
-    - Advanced JavaScript & JSP
-    - Web Design
-- Back-End Programming
-    - Fundamentals of Programming (Intro. to Java)   
 
-#### Visual Arts
-- Photoshop
-- InDesign 
+<details>
+    <summary><b>Computer Science</b></summary>
+    <ul>
+        <li>Front-End Programming</li>
+        <ul>
+            <li>XHTML & Internet Fundamentals</li>
+            <li>Web Programming</li>
+            <li>Advanced JavaScript & JSP</li>
+            <li>Web Design</li>
+        </ul>
+        <li>Back-End Programming</li>
+        <ul>
+            <li>Fundamentals of Programming (Introduction to Java)</li>
+        </ul>
+    </ul>
+    
+</details>
+
+
+<details>
+    <summary><b>Visual Arts</b></summary>
+    <ul>
+        <li>Adobe Photoshop</li>
+        <li>Adobe InDesign</li>
+    </ul>
+</details>
+
 
 
 
