@@ -59,6 +59,11 @@
             - Confusion Matrix 
         - Bayes' Theorem
             - Conditional Probability
+        - Naive Bayes Classifier
+        - Support Vector Machines
+        - Decision Trees
+            - Weighted Information Gain 
+        - Random Forests 
 
 #### Full Stack
 - PHP
