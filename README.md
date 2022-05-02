@@ -21,6 +21,7 @@
                 <li>Aggregate Functions</li>
                 <li>Multiple Tables</li>
                 <li>Windows Functions</li>
+                <li>Date & Time</li>
             </ul>
             <li>Web Scraping</li>
             <ul>
