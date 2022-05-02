@@ -17,7 +17,15 @@
         <li>Data Acquisition</li>
         <ul>
             <li>SQL (SQLite)</li>
+            <ul>
+                <li>Aggregate Functions</li>
+                <li>Multiple Tables</li>
+                <li>Windows Functions</li>
+            </ul>
             <li>Web Scraping</li>
+            <ul>
+                <li>BeautifulSoup</li>
+            </ul>
         </ul>
         <li>Data Manipulation</li>
         <ul>
@@ -99,8 +107,24 @@
             <li>Random Forests </li>
             </ul>
             <li>Unsupervised Learning</li>
+            <ul>
+                <li>K-Means Clustering</li>
+                <ul>
+                    <li>K-Means++</li>
+                </ul>
+            </ul>
         </ul>
      <li>Deep Learning</li>
+        <ul>
+            <li>Scalars, Vectors, & Matrices</li>
+            <li>Tensors</li>
+            <ul>
+                <li>Matrix Addition & Multiplication</li>
+                <li>Scalar Multiplication</li>
+                <li>Transpose</li>
+            </ul>
+            <li>Neural Network Basics</li>
+        </ul>
     </ul>
     
 </details>
