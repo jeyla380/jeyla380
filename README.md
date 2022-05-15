@@ -136,7 +136,7 @@
     <ul>
         <li>Creating Dev Environments</li>
         <ul>
-            <li>Command Line Basics</li>
+            <li>Bash</li>
         </ul>
         <li>Web Development Fundamentals</li>
         <ul>
