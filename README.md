@@ -134,6 +134,19 @@
 <details>
     <summary><b>Full Stack Engineer</b></summary>
     <ul>
+        <li>Creating Dev Environments</li>
+        <ul>
+            <li>Command Line Basics</li>
+        </ul>
+        <li>Web Development Fundamentals</li>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+        </ul>
+        <li>JavaScript Syntax</li>
+        <ul>
+            <li>Errors and Debugging</li>
+        </ul>
         <li>PHP</li>
         <ul>
             <li>Form Handling</li>
@@ -141,10 +154,6 @@
             <ul>
                 <li>Regular Expressions (Regex)</li>
             </ul>
-        </ul>
-        <li>JavaScript Syntax</li>
-        <ul>
-            <li>Errors and Debugging</li>
         </ul>
     </ul>
    
