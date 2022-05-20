@@ -125,6 +125,7 @@
                 <li>Transpose</li>
             </ul>
             <li>Neural Network Basics</li>
+            <li>C++</li>
         </ul>
     </ul>
     
@@ -159,12 +160,6 @@
    
 </details>
 
-<details>
-    <summary><b>Extra</b></summary>
-    <ul>
-        <li>C++</li>
-    </ul>
-</details>
 
 
 <br>
