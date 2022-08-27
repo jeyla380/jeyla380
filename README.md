@@ -6,7 +6,7 @@
 
 <br>
 
-## ✏️ [Projects:](https://github.com/jeyla380/projects) 
+## 💡 [Projects:](https://github.com/jeyla380/projects) 
 
 ### Data Science
 
