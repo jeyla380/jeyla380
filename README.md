@@ -6,7 +6,19 @@
 
 <br>
 
-## 🎀 My Courses:
+## ✏️ [Projects:](https://github.com/jeyla380/projects) 
+
+### Data Science
+
+<br>
+
+### Web Development
+
+
+<br>
+<br>
+
+## 🎀 Courses:
 
 ### [Codecademy](https://github.com/jeyla380/codecademy)
 
