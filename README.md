@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://github.com/jeyla380/jeyla380/blob/main/images/hello_page%20new.png">
+    <img src="https://github.com/jeyla380/jeyla380/blob/main/images/new%20new%20hello_page.png">
 </p>
 
 
