@@ -201,7 +201,8 @@
         </ul>
         <li>Back-End Programming</li>
         <ul>
-            <li>Fundamentals of Programming (Introduction to Java)</li>
+            <li>Fundamentals of Programming (Java)</li>
+            <li>Scripting and Applications (C++)</li>
         </ul>
     </ul>
     
