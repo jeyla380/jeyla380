@@ -219,6 +219,10 @@
             <li>Fundamentals of Programming (Java)</li>
             <li>Scripting and Applications (C++)</li>
         </ul>
+        <li>Database Management</li>
+        <ul>
+            <li>Database Applications (MySQL)</li>
+        </ul>
     </ul>
     
 </details>
