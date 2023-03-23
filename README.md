@@ -46,7 +46,7 @@
 
 ## 🎀 Courses:
 
-### [Codecademy](https://github.com/jeyla380/codecademy)
+### [Codecademy & FreeCodeCamp](https://github.com/jeyla380/codecademy)
 
 <details>
     <summary><b>Data Scientist</b></summary>
