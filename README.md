@@ -219,6 +219,7 @@
         <ul>
             <li>Fundamentals of Programming (Java)</li>
             <li>Scripting and Applications (C++)</li>
+            <li>Data Structures and Algorithms (Python)</li>
         </ul>
         <li>Database Management</li>
         <ul>
