@@ -222,6 +222,7 @@
         <li>Back-End Programming</li>
         <ul>
             <li>Fundamentals of Programming (Java)</li>
+            <li>Java Frameworks (Spring Boot)</li>
             <li>Scripting and Applications (C++)</li>
             <li>Data Structures and Algorithms (Python)</li>
         </ul>
