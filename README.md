@@ -229,6 +229,7 @@
         <li>Database Management</li>
         <ul>
             <li>Database Applications (MySQL)</li>
+            <li>Data Analysis (PostgreSQL)</li>
         </ul>
     </ul>
     
