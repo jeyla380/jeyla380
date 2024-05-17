@@ -42,7 +42,7 @@
 
 ### Database Management
 
-| [**Jaunty Coffee Co.**](https://github.com/jeyla380/school_work/tree/main/database_management/mysql) | [**Data Analysis with DVD Rentals](https://github.com/jeyla380/school_work/tree/main/database_management/postgresql) | 
+| [**Jaunty Coffee Co.**](https://github.com/jeyla380/school_work/tree/main/database_management/mysql) | [**Data Analysis with DVD Rentals**](https://github.com/jeyla380/school_work/tree/main/database_management/postgresql) | 
 | :---: | :---: |
 
 <br>
