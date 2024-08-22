@@ -231,6 +231,21 @@
             <li>Database Applications (MySQL)</li>
             <li>Data Analysis (PostgreSQL)</li>
         </ul>
+        <li>Quality Assurance</li>
+        <ul>
+            <li>Software Design and Quality Assurance</li>
+            <li>Version Control</li>
+        </ul>
+        <li>Operating Systems</li>
+        <ul>
+            <li>Linux Foundations</li>
+        </ul>
+        <li>Mathematics</li>
+        <ul>
+            <li>Calculus I</li>
+            <li>Discrete Mathematics I</li>
+            <li>Discrete Mathematics II</li>
+        </ul>
     </ul>
     
 </details>
