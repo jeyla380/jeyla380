@@ -48,7 +48,64 @@
 <br>
 <br>
 
+
+
 ## 🎀 Courses:
+
+### [School Work](https://github.com/jeyla380/school_work)
+
+<details>
+    <summary><b>Computer Science</b></summary>
+    <ul>
+        <li>Front-End Programming</li>
+        <ul>
+            <li>XHTML & Internet Fundamentals</li>
+            <li>Web Programming</li>
+            <li>Advanced JavaScript & JSP</li>
+            <li>Web Design</li>
+        </ul>
+        <li>Back-End Programming</li>
+        <ul>
+            <li>Fundamentals of Programming (Java)</li>
+            <li>Java Frameworks (Spring Boot)</li>
+            <li>Scripting and Applications (C++)</li>
+            <li>Data Structures and Algorithms (Python)</li>
+        </ul>
+        <li>Database Management</li>
+        <ul>
+            <li>Database Applications (MySQL)</li>
+            <li>Data Analysis (PostgreSQL)</li>
+        </ul>
+        <li>Quality Assurance</li>
+        <ul>
+            <li>Software Design and Quality Assurance</li>
+            <li>Version Control</li>
+        </ul>
+        <li>Operating Systems</li>
+        <ul>
+            <li>Linux Foundations</li>
+        </ul>
+        <li>Mathematics</li>
+        <ul>
+            <li>Calculus I</li>
+            <li>Discrete Mathematics I</li>
+            <li>Discrete Mathematics II</li>
+        </ul>
+    </ul>
+    
+</details>
+
+
+<details>
+    <summary><b>Visual Arts</b></summary>
+    <ul>
+        <li>Adobe Photoshop</li>
+        <li>Adobe InDesign</li>
+    </ul>
+</details>
+
+
+<br>
 
 ### [Codecademy & FreeCodeCamp](https://github.com/jeyla380/codecademy)
 
@@ -205,59 +262,6 @@
 
 
 
-<br>
-
-### [School Work](https://github.com/jeyla380/school_work)
-
-<details>
-    <summary><b>Computer Science</b></summary>
-    <ul>
-        <li>Front-End Programming</li>
-        <ul>
-            <li>XHTML & Internet Fundamentals</li>
-            <li>Web Programming</li>
-            <li>Advanced JavaScript & JSP</li>
-            <li>Web Design</li>
-        </ul>
-        <li>Back-End Programming</li>
-        <ul>
-            <li>Fundamentals of Programming (Java)</li>
-            <li>Java Frameworks (Spring Boot)</li>
-            <li>Scripting and Applications (C++)</li>
-            <li>Data Structures and Algorithms (Python)</li>
-        </ul>
-        <li>Database Management</li>
-        <ul>
-            <li>Database Applications (MySQL)</li>
-            <li>Data Analysis (PostgreSQL)</li>
-        </ul>
-        <li>Quality Assurance</li>
-        <ul>
-            <li>Software Design and Quality Assurance</li>
-            <li>Version Control</li>
-        </ul>
-        <li>Operating Systems</li>
-        <ul>
-            <li>Linux Foundations</li>
-        </ul>
-        <li>Mathematics</li>
-        <ul>
-            <li>Calculus I</li>
-            <li>Discrete Mathematics I</li>
-            <li>Discrete Mathematics II</li>
-        </ul>
-    </ul>
-    
-</details>
-
-
-<details>
-    <summary><b>Visual Arts</b></summary>
-    <ul>
-        <li>Adobe Photoshop</li>
-        <li>Adobe InDesign</li>
-    </ul>
-</details>
 
 
 
